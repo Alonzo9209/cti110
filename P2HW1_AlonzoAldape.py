@@ -1,6 +1,6 @@
 #Alonzo Aldape
 #3/1/25
-#P1HW2
+#P2HW1
 #The goal is to be able to make a code like the picture example and you must be able to input different values and get results that work.
 
 #print title 
